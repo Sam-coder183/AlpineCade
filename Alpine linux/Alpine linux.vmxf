@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 db 8f c0 ba b5 43 32-e2 16 20 03 57 db b3 eb</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Alpine linux.vmx</vmxPathName></VM><tools-install-info><installError>21004</installError><updateCounter>1</updateCounter></tools-install-info></Foundry>
