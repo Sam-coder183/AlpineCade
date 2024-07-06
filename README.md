@@ -5,8 +5,8 @@
 ### I can't upload the vmware files directly to github because The files are too large, I will make a link to mega while I learn lfs so you can collaborate with me.
 
 
-> Current goals
-> 1. install retroarch and dependencies
-> 2. install webrcade
+> Current RoadMap
+> 1. add legal Roms for users to test the distro.
+> 2. 
 > 3. 
  # Good luck to all Arcade Contestants! 😊
